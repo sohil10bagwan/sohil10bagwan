@@ -27,9 +27,6 @@ Become a skilled Full Stack Web Developer
 Build impactful and scalable applications
 Continuously improve problem-solving and coding skills
 
-🌐 Socials:
-[Mastodon](https://mastodon.social/@khan Bagwan) email
-
 💻 Tech Stack:
 JavaScript TypeScript Netlify Vercel Render Cloudflare AWS .Net Bootstrap Express.js NodeJS Nodemon React MongoDB MySQL Postgres Adobe Photoshop Adobe Illustrator Git GitHub GitLab Docker
 
